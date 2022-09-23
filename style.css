@@ -176,7 +176,7 @@ section .title::after{
 .home{
     display: flex;
     /* background: url("images/banner.jpg") no-repeat center; */
-    background: url("images/INSEES.jpg") no-repeat center;
+    background: url("INSEES.jpg") no-repeat center;
     box-shadow: rgb(159, 200, 45) 5px 15px 10px;
     height: 100vh;
     color: #fff;
